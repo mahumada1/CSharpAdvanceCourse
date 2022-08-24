@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\GIT\\GitPruebas\\CSharpAdvanceCourse\\CSharpAdvanceCourse\\CSharpAdvanceCourse\\CSharpAdvanceCourse.csproj": {}
+  },
+  "projects": {
+    "C:\\GIT\\GitPruebas\\CSharpAdvanceCourse\\CSharpAdvanceCourse\\CSharpAdvanceCourse\\CSharpAdvanceCourse.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GIT\\GitPruebas\\CSharpAdvanceCourse\\CSharpAdvanceCourse\\CSharpAdvanceCourse\\CSharpAdvanceCourse.csproj",
+        "projectName": "CSharpAdvanceCourse",
+        "projectPath": "C:\\GIT\\GitPruebas\\CSharpAdvanceCourse\\CSharpAdvanceCourse\\CSharpAdvanceCourse\\CSharpAdvanceCourse.csproj",
+        "packagesPath": "C:\\Users\\manue\\.nuget\\packages\\",
+        "outputPath": "C:\\GIT\\GitPruebas\\CSharpAdvanceCourse\\CSharpAdvanceCourse\\CSharpAdvanceCourse\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\manue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
