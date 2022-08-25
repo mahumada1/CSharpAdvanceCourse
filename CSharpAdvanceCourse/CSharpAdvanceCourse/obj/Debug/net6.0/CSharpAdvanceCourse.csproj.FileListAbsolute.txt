@@ -1,0 +1,15 @@
+C:\GIT\GitPruebas\CSharpAdvanceCourse\CSharpAdvanceCourse\CSharpAdvanceCourse\bin\Debug\net6.0\CSharpAdvanceCourse.exe
+C:\GIT\GitPruebas\CSharpAdvanceCourse\CSharpAdvanceCourse\CSharpAdvanceCourse\bin\Debug\net6.0\CSharpAdvanceCourse.deps.json
+C:\GIT\GitPruebas\CSharpAdvanceCourse\CSharpAdvanceCourse\CSharpAdvanceCourse\bin\Debug\net6.0\CSharpAdvanceCourse.runtimeconfig.json
+C:\GIT\GitPruebas\CSharpAdvanceCourse\CSharpAdvanceCourse\CSharpAdvanceCourse\bin\Debug\net6.0\CSharpAdvanceCourse.dll
+C:\GIT\GitPruebas\CSharpAdvanceCourse\CSharpAdvanceCourse\CSharpAdvanceCourse\bin\Debug\net6.0\CSharpAdvanceCourse.pdb
+C:\GIT\GitPruebas\CSharpAdvanceCourse\CSharpAdvanceCourse\CSharpAdvanceCourse\obj\Debug\net6.0\CSharpAdvanceCourse.csproj.AssemblyReference.cache
+C:\GIT\GitPruebas\CSharpAdvanceCourse\CSharpAdvanceCourse\CSharpAdvanceCourse\obj\Debug\net6.0\CSharpAdvanceCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\GitPruebas\CSharpAdvanceCourse\CSharpAdvanceCourse\CSharpAdvanceCourse\obj\Debug\net6.0\CSharpAdvanceCourse.AssemblyInfoInputs.cache
+C:\GIT\GitPruebas\CSharpAdvanceCourse\CSharpAdvanceCourse\CSharpAdvanceCourse\obj\Debug\net6.0\CSharpAdvanceCourse.AssemblyInfo.cs
+C:\GIT\GitPruebas\CSharpAdvanceCourse\CSharpAdvanceCourse\CSharpAdvanceCourse\obj\Debug\net6.0\CSharpAdvanceCourse.csproj.CoreCompileInputs.cache
+C:\GIT\GitPruebas\CSharpAdvanceCourse\CSharpAdvanceCourse\CSharpAdvanceCourse\obj\Debug\net6.0\CSharpAdvanceCourse.dll
+C:\GIT\GitPruebas\CSharpAdvanceCourse\CSharpAdvanceCourse\CSharpAdvanceCourse\obj\Debug\net6.0\refint\CSharpAdvanceCourse.dll
+C:\GIT\GitPruebas\CSharpAdvanceCourse\CSharpAdvanceCourse\CSharpAdvanceCourse\obj\Debug\net6.0\CSharpAdvanceCourse.pdb
+C:\GIT\GitPruebas\CSharpAdvanceCourse\CSharpAdvanceCourse\CSharpAdvanceCourse\obj\Debug\net6.0\CSharpAdvanceCourse.genruntimeconfig.cache
+C:\GIT\GitPruebas\CSharpAdvanceCourse\CSharpAdvanceCourse\CSharpAdvanceCourse\obj\Debug\net6.0\ref\CSharpAdvanceCourse.dll
